@@ -69,4 +69,34 @@ To improve your learning process, consider the following actions:
 - Make the learning process enjoyable and personalized.
 - Aim to become proficient in a few key skills rather than trying to master everything.
 
-Remember that understanding and application of knowledge is more important than simply covering a wide range of topics.
+**Question 5: When do you switch to Passive communication style in your day-to-day life?**
+
+- You act passively when you don't want to express your thoughts or feelings. You may do this if you're afraid of conflict or criticism.
+- Passive behavior is when you put others' needs ahead of yours and find it hard to say no or share your concerns.
+- It can happen when you're afraid of disagreeing with someone or don't want to speak up.
+
+**Question 6: When do you switch into Aggressive communication styles in your day-to-day life?**
+
+- You may act aggressively when you're very forceful and dominating in your interactions with others.
+- This happens when you get really mad or frustrated and start being confrontational and sometimes mean.
+- People might become aggressive when they feel disrespected, threatened, or when someone crosses their boundaries.
+- It's like yelling, arguing, or being mean to others.
+
+**Question 7: When do you switch into Passive-Aggressive communication styles in your day-to-day life?**
+
+- You might act passive-aggressive when you're angry or upset but don't want to show it directly.
+- Instead of talking openly, you might say something sarcastic, spread rumors, or give someone the silent treatment.
+- People use this style when they want to show they're upset without having a direct confrontation.
+
+**Question 8: How can you make your communication assertive?**
+
+- **Be honest:** Always speak the truth.
+- **Share your feelings:** Don't hide your emotions; express them without blaming anyone.
+- **Use "I" statements:** Say things like "I feel" to express your feelings without blaming others.
+- **Listen actively:** Pay attention to what others say.
+- **Set boundaries:** Let people know your limits and expectations.
+- **Respect yourself:** Value your own opinions and needs.
+- **Be confident:** Believe in yourself and your right to express your thoughts.
+- **Solve conflicts:** Learn to handle disagreements calmly and respectfully.
+- **Listen actively:** Show that you're paying attention and interested.
+- **Use body language:** Your body language should match your assertiveness.
