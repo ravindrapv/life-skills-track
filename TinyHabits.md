@@ -45,5 +45,5 @@
 
 ## Personal Habits
 
-- Form a habit of solving one LeetCode problem daily.
-- Develop a habit of meditating for 5-10 minutes each morning to reduce stress.
+- Form a habit of solving one Leetcode and one codeWars problem daily.
+- Develop a habit of meditating for 30 minutes each morning to reduce stress.
